@@ -1,0 +1,9 @@
+ram - salesman
+shyam - salesman
+hari - manager
+sita - receptionist
+Sushan - Manager
+punya - computer operator
+
+mika - manager
+vivek - Student
